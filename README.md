@@ -7,6 +7,9 @@ Currently there is no historical timeseries data available for German states. On
 ---
 Here are some samples:
 
+## Simplistic forecast model
+![xxx](images/forecast_14days.png)
+
 ## Infections by state
 ![xxx](images/area_chart_infections_germany_by_state.png)
 
@@ -15,3 +18,4 @@ Here are some samples:
 
 ## Daily increases in infections by state
 ![xxx](images/area_chart_dailydiffs_germany_by_state.png)
+
