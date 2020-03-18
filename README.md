@@ -11,7 +11,12 @@ Here are some samples:
 ![xxx](images/area_chart_infections_germany_by_state.png)
 
 ## Simplistic forecast model
+
+For 14 days:
 ![xxx](images/forecast_14_days.png)
+
+For two months:
+![xxx](images/forecast_60_days.png)
 
 ## Infections in northern Germany
 ![xxx](images/area_chart_infections_germany_northern_germany.png)
